@@ -1,4 +1,6 @@
-[ <img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--CMm6uO7O--/c_fill,f_auto,fl_progressive,h_300,q_auto,w_640/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/78926/4a75efb7-dbf1-46c1-be27-63ac8a58915c.png">](https://manojnaidu.now.sh)
+<p align="center">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--CMm6uO7O--/c_fill,f_auto,fl_progressive,q_auto/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/78926/4a75efb7-dbf1-46c1-be27-63ac8a58915c.png"/>
+</p>	
 
 ### Hello ✌️
 
