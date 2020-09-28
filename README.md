@@ -8,14 +8,13 @@
 
 I'm Manoj Naidu, just a simple dude 😁 who loves to build things. Currently living in Bangalore, India.
 
-## Tech & Tools ⚙️
+![Profile views](https://gpvc.arturio.dev/manojnaidu619)  
 
+## Tech & Tools ⚙️
 
 ![](https://img.shields.io/badge/Ruby-firebrick?style=for-the-badge)  ![](https://img.shields.io/badge/Python-blue?style=for-the-badge)   ![](https://img.shields.io/badge/Rails-darkred?style=for-the-badge) ![](https://img.shields.io/badge/javascript-goldenrod?style=for-the-badge)  ![](https://img.shields.io/badge/nodeJS-green?style=for-the-badge) ![](https://img.shields.io/badge/react-deepskyblue?style=for-the-badge)  ![](https://img.shields.io/badge/mysql-blue?style=for-the-badge) ![](https://img.shields.io/badge/Postgres-dodgerblue?style=for-the-badge) ![](https://img.shields.io/badge/Redis-crimson?style=for-the-badge) ![](https://img.shields.io/badge/Github-black?style=for-the-badge) ![](https://img.shields.io/badge/Restapi-lightseagreen?style=for-the-badge) ![](https://img.shields.io/badge/unix-gray?style=for-the-badge)     ![](https://img.shields.io/badge/heroku-purple?style=for-the-badge) ![](https://img.shields.io/badge/aws-sandybrown?style=for-the-badge) 
 
 ## Github Stats 📈
-
-![Profile views](https://gpvc.arturio.dev/manojnaidu619)  
 
 <a href="https://github.com/manojnaidu619" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=manojnaidu619&show_icons=true&hide=issues&count_private=true&theme=dracula" alt="Manoj Naidu's GitHub Stats" />
