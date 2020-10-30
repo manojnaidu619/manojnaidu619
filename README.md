@@ -34,9 +34,9 @@ I'm Manoj Naidu, just a simple dude 😁 who loves to build things. Currently li
 </a>
 &nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://dev.to/manojnaidu619" target="_blank">
-	<img src="https://img.icons8.com/windows/48/000000/dev.png"/>
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Manoj Naidu's DEV Profile" height="40" width="40">
 </a>
 &nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://manojnaidu.now.sh" target="_blank">
-	<img src="https://img.icons8.com/android/32/000000/link.png"/>
+  <img src="https://img.icons8.com/fluent/40/000000/link.png"/>
 </a>
