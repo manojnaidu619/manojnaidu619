@@ -6,7 +6,7 @@
 
 # Namaste 🙏
 
-I'm Manoj Naidu, just a simple dude 😁 who loves to build things. Currently living in Bangalore, India.
+I'm Manoj Naidu, just a simple dude 😁  who loves to build things.
 
 ![Profile views](https://gpvc.arturio.dev/manojnaidu619)  
 
