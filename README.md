@@ -17,9 +17,6 @@ I'm Manoj Naidu, just a simple dude 😁  who loves to build things.
 ## Github Stats 📈
 
 <a href="https://github.com/manojnaidu619" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manojnaidu619&show_icons=true&hide=issues&count_private=true&theme=dracula" alt="Manoj Naidu's GitHub Stats" />
-</a>
-<a href="https://github.com/manojnaidu619" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojnaidu619&hide=vue,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=282a36" />
 </a>
 
