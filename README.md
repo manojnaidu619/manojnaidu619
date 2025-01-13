@@ -26,7 +26,7 @@ I'm Manoj Naidu, just a simple dude 😁  who loves to build things.
 	<img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
 </a> 
 &nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://www.linkedin.com/in/manoj-kumar-d-b65394159/" target="_blank">
+<a href="https://www.linkedin.com/in/manojkumar-1999/" target="_blank">
 	<img src="https://img.icons8.com/color/48/000000/linkedin-2.png"/>
 </a>
 &nbsp&nbsp&nbsp&nbsp&nbsp
