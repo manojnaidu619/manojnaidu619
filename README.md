@@ -4,8 +4,6 @@
 </a>
 </p>	
 
-# Namaste 🙏
-
 I'm Manoj Kumar, just a simple dude 😁  who loves to build things.
 
 
